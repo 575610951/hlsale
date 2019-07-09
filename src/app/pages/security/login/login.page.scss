@@ -1,0 +1,38 @@
+ion-header{
+  color:#fff;
+}
+.content{
+  width:80%;
+  height: 100%;
+  margin:0 auto;
+  ion-avatar{
+    width: 56%;
+    height: 28%;
+    margin: 0 auto;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    img{
+      width: 52%;
+      height: 50%;
+    }
+  }
+  .form-item{
+    i{
+      font-size:22px;
+      color:#b4b4b4;
+    }
+  }
+  .form-item1{
+    margin-bottom: 2.5rem;
+  }
+  .form-item3{
+    font-size: 15px;
+    color: #909090;
+    text-align: right;
+    margin: 0;
+    i{
+      font-size:15px;
+    }
+  }
+}
